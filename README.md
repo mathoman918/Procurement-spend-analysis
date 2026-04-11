@@ -26,7 +26,7 @@ The dataset contains procurement transaction records with the following fields:
 | TotalCost | Total transaction cost |
 | PurchaseDate | Date of purchase |
 | Supplier | Supplier name |
-| Buyer | Buyer |
+| Buyer | Buyer Name |
 
 
 ## Data Cleaning
