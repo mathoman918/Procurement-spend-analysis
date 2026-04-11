@@ -51,14 +51,14 @@ SQL was used to transform and analyze the data:
 ## Visualizations & Dashboard
 The analysis was visualized using Excel and Power BI:
 
-- Total Spend (KPI)  
-- Spend by Supplier (Bar Chart)  
-- Spend by Category (Pie Chart)  
-- Monthly Spend Trend (Line Chart)  
-- Spend by Buyer (Bar Chart)  
-- Most Purchased Items (Bar Chart)  
-- Average Unit Price per Category  
-- Supplier Transaction Count  
+- Total Spend  
+- Spend by Supplier 
+- Spend by Category
+- Monthly Spend Trend
+- Spend by Buyer
+- Most Purchased Items
+- Average Unit Price per Category
+- Supplier Transaction Count
 
 Interactive filters (slicers) were used for:
 - Category  
@@ -66,9 +66,9 @@ Interactive filters (slicers) were used for:
 - Buyer  
 
 ## Key Insights
-- The highest procurement spend was observed in high-value categories such as ______  
+- The highest procurement spend was observed in high-value categories such as Electronics and Software  
 - A small number of suppliers contributed to the majority of total spend  
-- Monthly spending trends showed peaks in ______  
+- Monthly spending trends showed peaks in March and September  
 - Certain buyers were responsible for a significant portion of total spend  
 - Frequently purchased items had low unit cost but high volume  
 
