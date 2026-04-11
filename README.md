@@ -66,18 +66,19 @@ Interactive filters (slicers) were used for:
 - Buyer  
 
 ## Key Insights
-- The highest procurement spend was observed in high-value categories such as Electronics and Software  
-- A small number of suppliers contributed to the majority of total spend  
-- Monthly spending trends showed peaks in March and September  
-- Certain buyers were responsible for a significant portion of total spend  
-- Frequently purchased items had low unit cost but high volume  
+- Office Supplies account for the largest share of procurement spend (~56%), indicating a major operational cost driver.
+- TechMart Inc. is the highest spending supplier (~336K), followed by QuickDeliver Ltd., showing strong supplier dependency.
+- Procurement spend is concentrated among a few suppliers, which introduces supply risk.
+- Monthly spend trends show fluctuations, suggesting seasonal or demand-driven purchasing patterns.
+- High-frequency items contribute to operational efficiency but have lower cost impact.
+- Some categories have high unit prices, indicating opportunities for cost negotiation.  
 
 ## Recommendations
-- Negotiate pricing with top suppliers to reduce costs  
-- Diversify suppliers to reduce dependency risk  
-- Monitor high unit price categories for cost control  
-- Implement monthly spend tracking dashboards  
-- Optimize purchasing strategies based on demand patterns  
+- Establish supplier negotiation strategies for top vendors
+- Diversify supplier base to reduce dependency risk
+- Monitor high-cost categories and implement cost controls
+- Introduce procurement budgeting and forecasting
+- Use dashboards for continuous spend monitoring 
 
 ## Tools Used
 - SQL (Databricks)  
